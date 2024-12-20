@@ -6,7 +6,7 @@ Steps for Implementation
         > Patients, 
         > Appointments, and 
         > Departments.
-    > Each table will have a primary key, and necessary foreign keys will be added for relationships.
+    > Each table will have a primary key and necessary foreign keys will be added for relationships.
 
 2. Relationships:
     > Doctors work in Departments                       (1-to-1 or many-to-1 relationship).
@@ -24,5 +24,3 @@ Steps for Implementation
     > Include the ER diagram as an image.
     > SQL scripts in a text file.
     > Combine them into a zip file or upload them to GitHub.
-
-jhkjgjg
