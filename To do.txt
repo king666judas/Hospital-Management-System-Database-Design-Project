@@ -1,0 +1,28 @@
+Hospital Management System Database Design
+
+Overview:
+Design a Hospital Management System database to manage information about doctors, patients, 
+appointments, and departments. The database should efficiently handle relationships and store 
+relevant data.
+
+Requirements:
+
+Entity Design:
+Create tables for Doctors, Patients, Appointments, and Departments with appropriate fields.
+Doctors: (DoctorID, Name, Specialization, Phone.)
+Patients: (PatientID, Name, Age, Gender, Phone.)
+Appointments (AppointmentID, Date, Time, Status.)
+Departments: (DepartmentID, Name, and Location.)
+
+Diagram Submission:
+Draw an Entity Relationship Diagram (ERD) showing the relationships between tables, primary keys, 
+and foreign keys. Submit a clear image of the diagram.
+
+SQL Queries:
+- Write SQL queries to create the above tables, including PRIMARY KEY and FOREIGN KEY constraints.
+- Add at least 5 dummy records for each table.
+
+Submission Guidelines:
+- Submit a clear image of the ER diagram.
+- Submit SQL queries in a text file. (Create table and insert 5 data per table)
+- Combine the files into a zip file and submit. You can also submit GitHub repo link.
